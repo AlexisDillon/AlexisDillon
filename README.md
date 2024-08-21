@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 IT & Cybersecurity Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/AlexisDillon/LABURL)
+  - [Active Directory Home Lab](https://github.com/AlexisDillon/ActiveDirectoryLab)
 
 
 <h2> Certfications </h2>
