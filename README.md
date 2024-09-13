@@ -1,4 +1,4 @@
-<h1>Hi, I'm Alexis! <br/><a href="https://github.com/AlexisDillon">Aspiring IT Specialist</a>
+<h1>Hi, I'm Alexis! <br/><a href="https://github.com/AlexisDillon">Desktop Support Analyst </a>
 
 <h2>👨‍💻 IT & Cybersecurity Projects:</h2>
 
